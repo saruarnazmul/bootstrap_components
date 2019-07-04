@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header, .hero, .body, .footer, .bar{
+	background-color: pink;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 18px;
+}
+.bg{
+	background-color: grey;
+	min-height: 80px;
+	border: 1px solid black;
+	color: white;
+}
+.red{
+	background-color: red;
+	min-height: 80px;
+	border: 1px solid black;
+	color: white;
+}
